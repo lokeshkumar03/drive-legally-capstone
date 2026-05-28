@@ -292,5 +292,4 @@ Project Title
 Drive Legally
 AI Assistant for Traffic Challan Verification and Legal Guidance
 
-Contributors
-Chikkala Lokesh Kumar
+ 
